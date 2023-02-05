@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Moisés</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 <hr>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611b3f9f1baba58ecb5531b6103c55a9dd28bc02e2c&rid=giphy.gif&ct=g" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=790b7611c1ab5f87974c51f95d72684dc0dcb739bef99321&rid=giphy.gif&ct=g" width="400px" height="250" />
 </a>
 
 
@@ -11,6 +11,8 @@
 
 - 🌱 Currently I am more focused on Frontend and Backend.
 
+<br>
+<br>
 <br>
 <br>
 <hr>
