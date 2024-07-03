@@ -36,16 +36,16 @@
 *Languages and technologies I have used or worked with* 
 
 ### Frontend 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,astro,react,vue,nuxtjs,svelte,vite,ts,bootstrap,tailwind,sass&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,astro,react,vue,nuxtjs,svelte,vite,ts,bootstrap,tailwind,sass" />
 
 ### Backend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,postman,graphql,python,django,strapi,postgres,sqlite,mongo&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,postman,graphql,python,django,strapi,postgres,sqlite,mongo" />
 
 ### Mobile 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter" />
 
 ### Other 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,gitlab,figma,notion,npm,yarn,pnpm,ubuntu,vscode&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,github,gitlab,figma,notion,npm,yarn,pnpm,ubuntu,vscode" />
 
 <!-- Estadisticas de GitHub -->
 
