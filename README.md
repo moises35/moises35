@@ -39,7 +39,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,astro,react,vue,nuxtjs,svelte,vite,ts,bootstrap,tailwind,sass" />
 
 ### Backend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,postman,graphql,python,django,strapi,postgres,sqlite,mongo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,postman,graphql,python,django,strapi,postgres,sqlite,mongo" />
 
 ### Mobile 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter" />
